@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/quixar/Projects/consoleproj/consoleproj.csproj",
+      "projectUniqueName": "/Users/quixar/Projects/new-git-project/git-tutor/consoleproj.csproj",
       "projectName": "consoleproj",
-      "projectPath": "/Users/quixar/Projects/consoleproj/consoleproj.csproj",
+      "projectPath": "/Users/quixar/Projects/new-git-project/git-tutor/consoleproj.csproj",
       "packagesPath": "/Users/quixar/.nuget/packages/",
-      "outputPath": "/Users/quixar/Projects/consoleproj/obj/",
+      "outputPath": "/Users/quixar/Projects/new-git-project/git-tutor/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/quixar/.nuget/NuGet/NuGet.Config"
