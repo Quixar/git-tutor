@@ -12,3 +12,4 @@
 /Users/quixar/Projects/consoleproj/obj/Debug/net8.0/consoleproj.pdb
 /Users/quixar/Projects/consoleproj/obj/Debug/net8.0/consoleproj.genruntimeconfig.cache
 /Users/quixar/Projects/consoleproj/obj/Debug/net8.0/ref/consoleproj.dll
+/Users/quixar/Projects/consoleproj/obj/Debug/net8.0/consoleproj.sourcelink.json
